@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levinthal Fellowship//Info Session//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:levinthal-info-session-2026@levinthalfellowship
+DTSTAMP:20261013T000000Z
+DTSTART:20261023T000000Z
+DTEND:20261023T010000Z
+SUMMARY:Levinthal Fellowship Information Session
+LOCATION:TNRB 1051\, BYU\, Provo\, UT
+DESCRIPTION:Come learn about the Levinthal Fellowship — a venture capital and entrepreneurship fellowship hosted by Mike Levinthal. Fellows take a Winter semester seminar and spend a month interning at a tech startup in Mexico City.
+END:VEVENT
+END:VCALENDAR
